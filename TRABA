@@ -1,0 +1,34 @@
+
+
+<a href="https://futbol.gov" target="_blank">FUTBOL</a>
+              </li>
+              <li>
+                  <a href="mi_tema.html">futbol</a> 
+            </li> 
+            <li>
+                 <a href="mi_folder/otro_tema.html">otro tema</a>
+
+           </li>
+          <li>
+             <a href="#segundo_sub">reglas</a>
+        </li>
+      </ul>
+     </nav>
+     <!-- termina mi barra de navegación -->
+
+     <!--inicia mi contenido-->
+
+<h1>hablamos de que es el futbol</h1>
+
+<p>Deporte que se practica entre dos equipos de once jugadores que tan de introducir un balón en la portería del conrio impulsándolo con los pies, la cabeza o cualquier parte del cuerpo excepto las manos y los brazos; en cada equipo hay un portero, que puede tocar el balón con las manos, aunque solamente dentro del área; vence el equipo que logra más goles durante los 90 minutos que dura el encuentro.
+    fútbol sala Variante del fútbol que se practica entre dos equipos de cinco jugadores en un campo de 24 m a 28 m de largo por 13 m o 15 m de ancho y con un balón más duro y más pequeño; el encuentro dura 40 minutos, divididos en dos partes iguales.
+    "el fútbol sala suele practicarse en pistas de cemento, madera o hierba artificial"
+    fútbol 7 Variante del fútbol que se practica entre dos equipos de siete jugadores en un campo más pequeño que el de fútbol, pero más grande que el de fútbol sala.
+    Similar</p>
+    <h2 id="segundo_sub">mejores jugadores del mundo </h2>
+    <p>para mi son messi,lewandoski,mbappe,cr7,haalandy </p>
+    <h2>basico</h2>
+    <p>El fútbol se juega con un balón redondo y dos equipos de 11 jugadores cada uno. EL balón debe de ingresar a la portería del equipo rival para anotar un gol. Quien más goles tenga, gana el partido. Si el resultado es igual número de goles para cada equipo, se considera un empate.</p>
+    <!--termina mi contenido-->
+    <body>
+        <html>
