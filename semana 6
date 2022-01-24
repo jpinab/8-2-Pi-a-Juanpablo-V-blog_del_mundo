@@ -1,0 +1,72 @@
+<!-- inicia entrada: por que las tareas no deben de exisir-->
+<article>
+    <header>
+        <hgroup>
+            <!-- tareas no!!!-->
+            <h2> <img src="https://www.google.com/search?q=por+que+la+tarea+es+mala&tbm=isch&sxsrf=AOaemvJ9GjwbQvlJhrwlhpxlwxGLvHaC1g:1643063441801&source=lnms&sa=X&ved=2ahUKEwjMuaqmuMv1AhXjlmoFHbbVAYwQ_AUoAnoECAEQBA&biw=1107&bih=764&dpr=1#imgrc=DqWW7MrKxsKVQM" alt="Descripción del ícono" height="100px" width="auto"> Título del artículo</h2>
+            <!-- Fecha en la que se escribió el artículo -->
+            <h4>14/6/20</h4>
+        </hgroup>    
+    </header>
+    <!-- inicia contenido del artículo -->
+    <div>
+        
+        <h3>hablemos</h3>
+        <p>Hay estudios que demuestran que la tarea excesiva se traduce en malas o menores calificaciones. Según los autores, lo ideal es no asignar más de 100 minutos de tarea al día para que esta sea beneficiosa. 
+        Además, las investigaciones comprueban que es una mayor causa de estrés.</p>
+
+        <!-- inicia ilustración del artículo -->
+        <figure>
+            <img src="https://www.google.com/search?q=por+que+la+tarea+es+mala&hl=es&tbm=isch&sxsrf=AOaemvIchciQRYvAIA7EoD1F_GMlHR5vOA:1643064921757&source=lnms&sa=X&ved=2ahUKEwjy2IPovcv1AhVLlGoFHT8OCAEQ_AUoAnoECAEQBA&biw=1187&bih=764&dpr=1#imgrc=ZA6_Cghe7u88tM" alt="ilustracion 1º artículo" height="600px" width="auto">
+            <figcaption>Hay mucho debate en torno a cuánta tarea es demasiada y cuánto tiempo deberían de dedicar los alumnos a hacerla. Algunos docentes optan por seguir la regla de diez: dedicar diez minutos al día por grado. 
+            Es decir, un estudiante de primero de primaria deberá dedicar diez minutos a su tarea, mientras que uno de último año podría dedicarle hasta 120 minutos al día.</figcaption>
+        </figure>
+        <!-- termina ilustración del artículo -->
+
+        <!-- inicia ilustración del artículo -->
+        <figure>
+            <img src="https://www.google.com/search?q=por+que+la+tarea+es+mala&hl=es&tbm=isch&sxsrf=AOaemvIchciQRYvAIA7EoD1F_GMlHR5vOA:1643064921757&source=lnms&sa=X&ved=2ahUKEwjy2IPovcv1AhVLlGoFHT8OCAEQ_AUoAnoECAEQBA&biw=1187&bih=764&dpr=1#imgrc=xIq-pkGPLdoXeM" alt="ilustracion 1º artículo" height="600px" width="auto">
+            <figcaption>Aunque asignar tarea sí tiene beneficios, es tiempo de analizar si este recurso académico hace más mal que bien. Especialmente debido al incremento que ha tenido en los últimos 30 años. Por ello es conveniente que los docentes analicen el impacto que tiene en la calidad de vida de sus alumnos, especialmente en los más jóvenes, a quienes les quedan más de 10 años de escuela por delante.</figcaption>
+        </figure>
+        <!-- termina ilustración del artículo -->
+
+
+        <!-- inicia ilustración del artículo -->
+        <figure>
+            <img src="https://www.youtube.com/watch?v=sCsTirDBv7Y&t=36s" alt="ilustracion 1º artículo" height="600px" width="auto">
+            <figcaption>a continuacion les dejo un video interesante</figcaption>
+        </figure>
+        <!-- termina ilustración del artículo -->
+
+        
+         !-- Datos del autor -->
+        <div>
+            <span>Nombre del autor</span> <a href="https://www.instagram.com/jpborbolla.9/JUAN PABLO PIÑA" target="_blank">@nombredelautor en mi_red_social</a>
+        </div>
+        <!-- fin datos del autor -->
+        <!-- bibliografía -->
+        <blockquote>
+            <p></p>
+        </blockquote>
+        <!-- fin bibliografía -->
+    </footer>
+</article>
+<!-- fin entrada: nombre_del_artículo -->
+
+
+
+
+
+
+
+
+
+
+    </div>
+    <!-- Termina contenido del artículo --> 
+    <footer>
+        
+    </footer>
+</article>
+<!-- fin entrada: por que las tareas no deben de exisir -->
+
