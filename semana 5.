@@ -1,0 +1,40 @@
+<!-- inicia entrada: adicciones -->
+<article>
+    <header>
+        <hgroup>
+            <!-- Título del artículo con ícono -->
+            <h2> <img src="https://www.google.com/search?q=adiccion+a+los+videojuegos&sa=X&bih=698&biw=1239&rlz=1C5CHFA_enMX895MX895&hl=en-US&tbm=isch&source=iu&ictx=1&fir=K6uHgMLY9TCawM%252CggL3Q4-t-KADTM%252C_%253BTuxn57vSbo_9VM%252CggL3Q4-t-KADTM%252C_%253BVk-NWe7DrN2YCM%252CnXjarcOpWzneRM%252C_%253BbBelnBfcf12gCM%252CnXjarcOpWzneRM%252C_&vet=1&usg=AI4_-kRWHffdBhtoWYiTqForcbIcacs20A&ved=2ahUKEwjQ__f5t6f1AhXhkWoFHRa4CSEQ_h16BAgREAE#imgrc=Tuxn57vSbo_9VM" alt="aqui se puede ver a una un niño normal juagndo, pero sabias que podria estar pasando por la adiccion" height="35px" width="auto"> adicciones</h2>
+            <!-- Fecha en la que se escribió el artículo -->
+            <h4>18/6/17</h4>
+        </hgroup>    
+    </header>
+    <!-- inicia contenido del artículo -->
+    <div>
+        
+        <h3>vamos a leer un poco</h3>
+        <p>Qué es la adicción a los videojuegos? La adicción a los videojuegos es una enfermedad que provoca en el paciente la necesidad incontrolable de jugar de forma compulsiva a juegos electrónicos. Este es incapaz de controlar sus ganas y su deseo le lleva a jugar irremediablemente durante un gran número de horas.</p>
+
+        <!-- inicia ilustración del artículo -->
+        <figure>
+            <img src="https://www.google.com/search?q=adiccion+a+los+videojuegos&sa=X&bih=698&biw=1239&rlz=1C5CHFA_enMX895MX895&hl=en-US&tbm=isch&source=iu&ictx=1&fir=K6uHgMLY9TCawM%252CggL3Q4-t-KADTM%252C_%253BTuxn57vSbo_9VM%252CggL3Q4-t-KADTM%252C_%253BVk-NWe7DrN2YCM%252CnXjarcOpWzneRM%252C_%253BbBelnBfcf12gCM%252CnXjarcOpWzneRM%252C_&vet=1&usg=AI4_-kRWHffdBhtoWYiTqForcbIcacs20A&ved=2ahUKEwjQ__f5t6f1AhXhkWoFHRa4CSEQ_h16BAgSEAE#imgrc=K6uHgMLY9TCawM" alt="ilustracion 1º artículo" height="600px" width="auto">
+            <figcaption>aqui podemos apreciar como esa imagen significa muchass cosas</figcaption>
+        </figure>
+        <!-- termina ilustración del artículo -->
+
+    </div>
+    <!-- Termina contenido del artículo -->
+    
+    <footer>
+        <!-- Datos del autor -->
+        <div>
+            <span>juan pablo piña</span> <a href="https://www.instagram.com/jpborbolla.9/juan pablo piña" target="_blank">@topdoctors en mi_red_social</a>
+        </div>
+        <!-- fin datos del autor -->
+        <!-- bibliografía -->
+        <blockquote>
+            <p>Top Doctors INC Sucursal en España | CIF W4009543B | C/ Muntaner 239 4ª planta 08021 Barcelona ciudad</p>
+        </blockquote>
+        <!-- fin bibliografía -->
+    </footer>
+</article>
+<!-- fin entrada: nombre_del_artículo -->
