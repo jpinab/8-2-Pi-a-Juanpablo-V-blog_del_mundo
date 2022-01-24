@@ -1,1 +1,1 @@
-# 8-2-PiñaJuanpablo0-VillanuevaDiego1-blog_del_mundo
+# 8-2-PiñaJuanpablo0-blog_del_mundo
