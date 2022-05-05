@@ -1,0 +1,317 @@
+<!-- JUAN PBLO PIÑA -->
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <!-- añade el conjunto de caracteres latinos -->
+    <meta charset="UTF-8">
+    <title>Mi Tema</title>
+</head>
+
+<body>
+    <!-- inicia barra de navegación -->
+    <nav>
+        <ul>
+            <li><a href="index.html" target="_blank">Principal</a></li>
+            <li><a href="mi_tema2.html">Mi tema 2</a></li>
+            <!-- Temas de mi equipo -->
+            <li><a href="mi_tema3.html">Mi tema 3</a></li>
+            <li><a href="mi_tema4.html">Mi tema 4</a></li>
+        </ul>
+    </nav>
+    <!-- termina barra de navegación -->
+
+    <!--empieza mi blog-->
+    <section>
+        <!-- Empieza encabezado del blog -->
+        <header>
+            <h1>Título de mi blog</h1>
+        </header>
+        <!-- Termina encabezado del blog -->
+
+        <!-- empieza contenido principal -->
+        <main>
+
+            <!-- inicia entrada: Introducción a mi_tema -->
+            <article>
+                <header>
+                    <hgroup>
+                        <!-- Título del artículo -->
+                        <h2> <img src="assets/images/imagen_ejemplo.png" alt="Texto descriptivo de la imagen" height="35px" width="auto"> Introducción a mi_tema</h2>
+                        <!-- Fecha en la que se escribió el artículo -->
+                        <h4>dd/mes/aa</h4>
+                    </hgroup>
+                </header>
+                <!-- inicia contenido del artículo -->
+                <div>
+                    <h3>Contexto</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga dolorum autem veritatis repellendus voluptatem, enim mollitia in eos maxime, libero quae, accusantium ratione quos ipsa atque officia earum! Accusantium quo iste, aliquam sint porro assumenda quia rerum excepturi.
+                        Sit, quam excepturi. Tenetur consectetur eligendi unde corrupti dolor sequi voluptas at sit omnis quasi inventore deserunt illum architecto aut assumenda, doloremque cumque possimus fugiat fuga. Unde architecto illum praesentium odit vel vero voluptatem provident eum? Ea aut
+                        facilis aliquid architecto corrupti id delectus obcaecati illum voluptas quaerat voluptates mollitia atque in reiciendis debitis, neque aspernatur libero dignissimos vel amet unde fuga.</p>
+
+                    <h3>Desarrollo</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga dolorum autem veritatis repellendus voluptatem, enim mollitia in eos maxime, libero quae, accusantium ratione quos ipsa atque officia earum! Accusantium quo iste, aliquam sint porro assumenda quia rerum excepturi.
+                        Sit, quam excepturi. Tenetur consectetur eligendi unde corrupti dolor sequi voluptas at sit omnis quasi inventore deserunt illum architecto aut assumenda, doloremque cumque possimus fugiat fuga. Unde architecto illum praesentium odit vel vero voluptatem provident eum? Ea aut
+                        facilis aliquid architecto corrupti id delectus obcaecati illum voluptas quaerat voluptates mollitia atque in reiciendis debitis, neque aspernatur libero dignissimos vel amet unde fuga.</p>
+
+                    <h3>Motivación</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga dolorum autem veritatis repellendus voluptatem, enim mollitia in eos maxime, libero quae, accusantium ratione quos ipsa atque officia earum! Accusantium quo iste, aliquam sint porro assumenda quia rerum excepturi.
+                        Sit, quam excepturi. Tenetur consectetur eligendi unde corrupti dolor sequi voluptas at sit omnis quasi inventore deserunt illum architecto aut assumenda, doloremque cumque possimus fugiat fuga. Unde architecto illum praesentium odit vel vero voluptatem provident eum? Ea aut
+                        facilis aliquid architecto corrupti id delectus obcaecati illum voluptas quaerat voluptates mollitia atque in reiciendis debitis, neque aspernatur libero dignissimos vel amet unde fuga.</p>
+
+                    <!-- inicia ilustración del artículo -->
+                    <figure>
+                        <img src="https://via.placeholder.com/600x600.jpg/0000ff/ffffff" alt="ilustracion  artículo" height="600px" width="auto">
+                        <figcaption>Texto de descripción de mi ilustración.</figcaption>
+                    </figure>
+                    <!-- termina ilustración del artículo -->
+                </div>
+                <!-- Termina contenido del artículo -->
+                <footer>
+                    <!-- Datos del autor -->
+                    <div>
+                        <span>Nombre del autor</span> <a href="http://miredsocial.com/nombredelautor" target="_blank">@nombredelautor en mi_red_social</a>
+                    </div>
+                    <!-- fin datos del autor -->
+                    <!-- bibliografía -->
+                    <blockquote>
+                        <p>Cita correctamente hecha.</p>
+                    </blockquote>
+                    <!-- fin bibliografía -->
+                </footer>
+            </article>
+            <!-- fin entrada: Introducción a mi_tema -->
+
+
+            <!-- inicia entrada: ranking -->
+            <article>
+                <header>
+                    <hgroup>
+                        <!-- Título del artículo -->
+                        <h2> <img src="assets/images/imagen_ejemplo.png" alt="Texto descriptivo de la imagen" height="35px" width="auto"> Ranking de ejemplo</h2>
+                        <!-- Fecha en la que se escribió el artículo -->
+                        <h4>dd/mes/aa</h4>
+                    </hgroup>
+                </header>
+                <!-- inicia contenido del artículo -->
+                <div>
+                    <!-- Empieza mi ranking en orden inverso -->
+                    <ol reversed>
+                        <li>elemento 1</li>
+                        <li>elemento 2</li>
+                        <li>elemento 3</li>
+                        <li>elemento 4</li>
+                        <li>elemento 5</li>
+                        <li>elemento 6</li>
+                        <li>elemento 7</li>
+                        <li>elemento 8</li>
+                        <li>elemento 9</li>
+                        <li>elemento 10</li>
+                    </ol>
+                    <!-- Termina mi ranking en orden inverso -->
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Similique aliquam et quo id ipsa, ratione rem excepturi magni tempore totam aspernatur, esse, illum accusantium blanditiis culpa praesentium vel. Enim dignissimos velit mollitia voluptates alias a quasi error doloremque
+                        culpa, vitae aliquid harum facilis explicabo ullam. Officiis eos, consequatur nisi, nam odit perspiciatis quas placeat optio ratione, officia perferendis cum labore ab ullam illo minima veniam aut hic animi? Beatae nostrum sapiente aperiam debitis eligendi incidunt, unde eos
+                        repellendus at fugiat quae odio assumenda, non magnam! Facilis fugit quibusdam sed voluptatibus magni, dolorem rerum ea praesentium, totam nihil veritatis non repudiandae!</p>
+
+                    <!-- inicia ilustración del artículo -->
+                    <figure>
+                        <img src="https://via.placeholder.com/600x600.jpg/0000ff/ffffff" alt="ilustracion  artículo" height="600px" width="auto">
+                        <figcaption>Texto de descripción de mi ilustración.</figcaption>
+                    </figure>
+                    <!-- termina ilustración del artículo -->
+                </div>
+                <!-- Termina contenido del artículo -->
+                <footer>
+                    <!-- Datos del autor -->
+                    <div>
+                        <span>Nombre del autor</span> <a href="http://miredsocial.com/nombredelautor" target="_blank">@nombredelautor en mi_red_social</a>
+                    </div>
+                    <!-- fin datos del autor -->
+                    <!-- bibliografía -->
+                    <blockquote>
+                        <p>Cita correctamente hecha.</p>
+                    </blockquote>
+                    <!-- fin bibliografía -->
+                </footer>
+            </article>
+            <!-- fin entrada: ranking -->
+
+            <!-- inicia entrada: sitios oficiales -->
+            <article>
+                <header>
+                    <hgroup>
+                        <!-- Título del artículo -->
+                        <h2> <img src="assets/images/imagen_ejemplo.png" alt="Texto descriptivo de la imagen" height="35px" width="auto"> Sitios oficiales ejemplo</h2>
+                        <!-- Fecha en la que se escribió el artículo -->
+                        <h4>dd/mes/aa</h4>
+                    </hgroup>
+                </header>
+                <!-- inicia contenido del artículo -->
+                <div>
+                    <!-- Empieza mi lista de sitios oficiales -->
+                    <ul>
+                        <li><a href="https://google.com" target="_blank">sitio oficial de ejemplo 1</a></li>
+                        <li><a href="https://google.com" target="_blank">sitio oficial de ejemplo 2</a></li>
+                        <li><a href="https://google.com" target="_blank">sitio oficial de ejemplo 3</a></li>
+                        <li><a href="https://google.com" target="_blank">sitio oficial de ejemplo 4</a></li>
+                        <li><a href="https://google.com" target="_blank">sitio oficial de ejemplo 5</a></li>
+                    </ul>
+                    <!-- Termina mi lista de sitios oficiales -->
+
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus libero sequi delectus ipsum neque eius ducimus iste praesentium, consectetur quisquam. Modi esse qui eligendi. Quae eveniet totam vel rerum sed, tenetur accusamus vitae, harum, exercitationem inventore quo
+                        explicabo commodi esse minus hic facilis consequuntur possimus ipsum. Recusandae, officiis hic, excepturi est sed culpa dolor dicta ducimus exercitationem fugiat, aperiam repudiandae sit vel vero autem quo eius adipisci rem fuga perferendis ea voluptate explicabo quisquam?
+                        Culpa aliquam voluptatum quisquam laudantium doloremque assumenda libero saepe harum exercitationem facilis, repudiandae maxime tenetur beatae accusantium eligendi praesentium temporibus soluta similique. Eveniet officia asperiores consequatur.</p>
+                    <!-- inicia ilustración del artículo -->
+                    <figure>
+                        <img src="https://via.placeholder.com/600x600.jpg/0000ff/ffffff" alt="ilustracion  artículo" height="600px" width="auto">
+                        <figcaption>Texto de descripción de mi ilustración.</figcaption>
+                    </figure>
+                    <!-- termina ilustración del artículo -->
+                </div>
+                <!-- Termina contenido del artículo -->
+                <footer>
+                     <!-- Datos del autor -->
+                     <div>
+                        <span>Nombre del autor</span> <a href="http://miredsocial.com/nombredelautor" target="_blank">@nombredelautor en mi_red_social</a>
+                    </div>
+                    <!-- fin datos del autor -->
+                    <!-- bibliografía -->
+                    <blockquote>
+                        <p>Cita correctamente hecha.</p>
+                    </blockquote>
+                    <!-- fin bibliografía -->
+                </footer>
+            </article>
+            <!-- fin entrada: sitios oficiales -->
+
+            <!-- inicia entrada: video de youtube -->
+            <article>
+                <header>
+                    <hgroup>
+                        <!-- Título del artículo -->
+                        <h2> <img src="assets/images/imagen_ejemplo.png" alt="Descripción del ícono" height="35px" width="auto"> Video de Youtube</h2>
+                        <!-- Fecha en la que se escribió el artículo -->
+                        <h4>dd/mes/aa</h4>
+                    </hgroup>
+                </header>
+                <!-- inicia contenido del artículo -->
+                <div>
+
+                    <!-- inicia video  -->
+                    <figure>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/R9WF8ZtMbrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <figcaption>¡No lo hagan!</figcaption>
+                    </figure>
+                    <!-- termina Video-->
+
+                    <!-- inician párrafos adicionales -->
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reiciendis vitae odio, impedit laboriosam doloremque, perspiciatis id illo tenetur sequi aspernatur corrupti aperiam. Eius, nesciunt asperiores mollitia libero molestiae assumenda voluptas quae consequatur. Dolorem
+                        numquam non, expedita molestias deleniti unde voluptatibus suscipit, optio at amet autem inventore necessitatibus. Minus deserunt aliquam pariatur voluptatum vitae, delectus accusamus distinctio, nostrum consequuntur aperiam sequi? Minus alias impedit quasi dolor animi
+                        ratione quas accusamus facilis libero ex quisquam, dolores sit quaerat ut enim, velit rem laudantium minima. Harum ex totam et tempora officia quas veniam dolore consequatur error? Nisi adipisci ullam fuga sequi libero nobis?</p>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel exercitationem cupiditate in est sed cum. Quis quibusdam porro tenetur similique dicta quod, reiciendis voluptatibus iure libero voluptate laborum ipsa praesentium nulla! Vel quos accusamus pariatur, nulla,
+                        perspiciatis nisi vitae fuga numquam dolores harum voluptate. Minus culpa ipsa obcaecati numquam architecto aperiam cumque atque, eaque, perspiciatis nesciunt reiciendis voluptate beatae magnam accusamus vitae officia. Quo, tempora ea modi incidunt dicta nulla unde soluta
+                        vero ab voluptates aut aliquid optio quod impedit deleniti delectus praesentium quis repellendus possimus. Minima asperiores molestias incidunt cum inventore magni, consequatur natus? Nihil odio quod recusandae quas?</p>
+                    <!-- Terminan párrafos adicionales -->
+                </div>
+                <!-- Termina contenido del artículo -->
+                <footer>
+                    <!-- Datos del autor -->
+                    <div>
+                        <span>Nombre del autor</span> <a href="http://miredsocial.com/nombredelautor" target="_blank">@nombredelautor en mi_red_social</a>
+                    </div>
+                    <!-- fin datos del autor -->
+                    <!-- bibliografía -->
+                    <blockquote>
+                        <p>Cita correctamente hecha.</p>
+                    </blockquote>
+                    <!-- fin bibliografía -->
+                </footer>
+            </article>
+            <!-- fin entrada: video youtube -->
+
+            <!-- inicia entrada: investigación -->
+            <article>
+                <header>
+                    <hgroup>
+                        <!-- Título del artículo con ícono -->
+                        <h2> <img src="assets/images/imagen_ejemplo.png" alt="Descripción del ícono" height="35px" width="auto"> Investigación</h2>
+                        <!-- Fecha en la que se escribió el artículo -->
+                        <h4>dd/mes/aa</h4>
+                    </hgroup>
+                </header>
+                <!-- inicia contenido del artículo -->
+                <div>
+
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid exercitationem odio in. Corporis sed optio fugiat odit, culpa impedit dicta ea tempora, consectetur quidem quasi omnis voluptatum sint magni molestiae praesentium veniam, quo earum inventore quam.
+                        <strong>Cupiditate, odio! Sequi nostrum quia totam doloremque odio dolores</strong>, <q>illum iste mollitia quo est earum eius et ea id fugit repellendus laborum quod tempore dolorum?</q> <cite>--Dolores doloremque</cite> consectetur sapiente placeat nulla unde voluptate
+                        praesentium temporibus,
+                        debitis dolorum, distinctio
+                        ipsam vitae repudiandae consequatur illum minima? Labore eos libero nobis rerum qui ipsum est pariatur saepe voluptatum quia, sapiente, modi velit, ad et quaerat non? Rem.</p>
+                    <p>Dignissimos accusantium asperiores expedita velit, provident a nisi veritatis consectetur, dolorum neque eveniet dolorem iusto repellendus vero necessitatibus dolore modi quibusdam, officia illo? Inventore pariatur eligendi vero, libero saepe, iste commodi atque facilis
+                        ducimus voluptatem alias impedit mollitia aut iure voluptatibus delectus consequatur. <strong>Aliquam nulla maxime ipsum temporibus sed? Dicta eligendi nihil nisi repudiandae magnam ad, quisquam voluptatum repellendus beatae pariatur? Amet nemo placeat consequatur numquam
+                            suscipit minus sed.</strong> Consequatur eveniet nostrum corporis ad numquam odio et eos nam omnis dignissimos? Nostrum, illo! Recusandae maxime est, ab quos error quibusdam tempore soluta quisquam, beatae cupiditate, odio officiis nihil obcaecati ipsa?</p>
+                    <p>Molestiae, porro culpa delectus vero nihil rem perspiciatis quasi, reprehenderit atque animi doloribus quo iste officia consequuntur dolore ullam impedit consequatur voluptatibus explicabo, maxime veritatis. Repudiandae mollitia autem natus harum animi, suscipit voluptatum
+                        nobis veniam recusandae qui nisi praesentium illo ad molestiae eligendi? nobis veniam recusandae qui nisi praesentium illo ad molestiae eligendi?
+                        </q> <cite>--At, optio</cite>. Ea debitis totam ducimus. <strong>
+                            Quia eos inventore harum officiis porro maxime ex facere reprehenderit provident hic et, vitae repellat corporis dignissimos odio consequuntur qui rerum tempora
+                            distinctio, voluptate dolor?</strong> Facilis reiciendis assumenda nostrum deserunt dolore ducimus cum nihil ratione cumque, officia, doloremque omnis repudiandae. Omnis doloremque saepe harum mollitia praesentium. Facere at debitis eveniet magnam!</p>
+                    <p>Saepe pariatur nostrum, libero incidunt nulla ipsam sit! Veniam, eos. Beatae, nihil voluptates. <strong>Fugit ea ratione iusto reiciendis voluptatibus dicta, corrupti ipsa, voluptatum maxime qui ullam aliquid enim reprehenderit dolor laudantium magnam! Hic beatae, voluptatem
+                            corrupti.</strong>
+                        <q>Eius, iure dolor molestiae et veritatis vero nulla debitis expedita molestias delectus quam non nesciunt, facere alias at magnam numquam facilis cum soluta!</q> <cite>--Ipsam ad sequi</cite> deleniti alias aut nihil labore error architecto eaque, ex non, dolore ab et?
+                        Distinctio quidem ipsam
+                        rem illo alias. Dolores rem autem beatae, eaque quam similique nemo deserunt expedita amet quos distinctio praesentium architecto! Quo repellat nihil quam.</p>
+
+                    <!-- inicia ilustración del artículo -->
+                    <figure>
+                        <img src="https://via.placeholder.com/600x600.jpg/0000ff/ffffff" alt="ilustracion 1º artículo" height="600px" width="auto">
+                        <figcaption>Texto de descripción de mi ilustración.</figcaption>
+                    </figure>
+                    <!-- termina ilustración del artículo -->
+
+                </div>
+                <!-- Termina contenido del artículo -->
+
+                <footer>
+                    <!-- Datos del autor -->
+                    <div>
+                        <span>Nombre del autor</span> <a href="http://miredsocial.com/nombredelautor" target="_blank">@nombredelautor en mi_red_social</a>
+                    </div>
+                    <!-- fin datos del autor -->
+                    <!-- bibliografía -->
+                    <blockquote>
+                        <p>Cita correctamente hecha.</p>
+                    </blockquote>
+                    <!-- fin bibliografía -->
+                </footer>
+            </article>
+            <!-- fin entrada: investigación -->
+
+        </main>
+        <!-- termina contenido principal -->
+
+        <!-- empieza barra lateral -->
+        <aside>
+
+        </aside>
+        <!-- termina barra lateral -->
+
+        <!-- empieza el footer -->
+        <footer>
+            <div>
+                <span>Nombre persona 1</span>
+            </div>
+            <div>
+                <span>Blog creado en <i>nombre de tu colegio</i>.</span>
+                <span>Las opiniones contenidas en este proyecto pertenecen a los autores de cada entrada.</span>
+            </div>
+            <div>
+                <span>Nombre persona 2</span>
+            </div>
+
+        </footer>
+        <!-- termina el footer -->
+    </section>
+    <!--termina mi blog-->
+</body>
+
+</html>
